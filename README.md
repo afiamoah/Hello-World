@@ -2,18 +2,13 @@
 
 # Project Name
 
-> Description the project.
+> Hello World Project
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- html and css
+-
 
 
 ## Getting Started
