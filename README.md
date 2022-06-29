@@ -19,7 +19,7 @@
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/afiamoah)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/afiamoah)
 
 
 
