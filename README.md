@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-#Microverse Hello World Project
+#Microverse first Project
 
 > this is the first project which includes only html and css with linters configured
 
