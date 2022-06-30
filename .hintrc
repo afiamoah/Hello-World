@@ -1,0 +1,8 @@
+{
+    "connector": {},
+    "formatters": [],
+    "hints": {
+        "amp-validator": "error",
+    },
+    "parsers": [],
+}
